@@ -1,5 +1,5 @@
 {
-  "name": "[your package name]",
+  "name": "your.package.name",
   "displayName": "[your package display name]",
   "version": "1.0.0",
   "unity": "2018.3",
